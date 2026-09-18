@@ -1,0 +1,4 @@
+- Ce test vérifie que ma fonction est opérationnel via une comparaison exacte de la liste des noms attendus
+- Non, le test assure que la fonction donne le résultat attendu
+- Oui, il suppose des données fictives de test, avec un constructeur de produit qui n'existe pas
+- Il faudrait vérifier en plus le cas d'une table vide
